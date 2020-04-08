@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462119606 source:c:\users\gokul\desktop\playfair\main.c
+	<stdio.h>
+	<conio.h>
+
+1462119608 source:c:\users\sanjay\desktop\playfair\main.c
+	<stdio.h>
+	<conio.h>
+
+1462119608 source:f:\playfair\main.c
+	<stdio.h>
+	<conio.h>
+
