@@ -21,21 +21,16 @@ switch(choice)
 		if(fp==NULL)
 			{
 			printf("\n the file cannot be opened.");
-
 			}
 		else
 			{
-
-
 			c=fgetc(fp);
 			printf("\n the cipher text are:\n");
 			while(c!=EOF)
 				{
 				 fputc(c+name[0],fp);
 				 printf("%c",c+name[0]);
-
 				}
-
 			}
 		fclose(fp);
 		fclose(fp1);
