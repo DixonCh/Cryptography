@@ -23,3 +23,5 @@ If the letters are not on the same row or column, replace them with the letters 
 To decrypt, use the inverse (opposite) of the last 3 rules, and the first as-is (dropping any extra "X"s or "Q"s that do not make sense in the final message when finished).
 
 There are several minor variations of the original Playfair cipher.
+
+Reference: https://en.wikipedia.org/wiki/Playfair_cipher
